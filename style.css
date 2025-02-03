@@ -224,7 +224,7 @@
 }
   /*fixed bg*/
   .fixed-background {
-  background-image: url('/image/f9f1cf_9d02b313e4a74ec1b3ced9e6e58bbc34~mv2.avif'); /* Replace with the URL of your background image */
+  background-image: url('./image/f9f1cf_9d02b313e4a74ec1b3ced9e6e58bbc34~mv2.avif'); /* Replace with the URL of your background image */
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
